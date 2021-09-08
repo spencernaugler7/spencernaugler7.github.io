@@ -60,7 +60,7 @@ en: &DEFAULT_EN
         image: assets/python_logo.png
       - title: "Holy Crap Vim!!!"
         year: "2015-current"
-        desc: "At one point in time I watched a lot of a speaker named [Damian Conway](https://en.wikipedia.org/wiki/Damian_Conway). I watched one of his talks: [More Instantly Better Vim - OSCON 2013](https://www.youtube.com/watch?v=aHm36-na4-4). I thought what the heck is vim? Now it is impossible for me to use Microsoft World. :)"
+        desc: "At one point in time I watched a lot of a speaker named [Damian Conway](https://en.wikipedia.org/wiki/Damian_Conway). I watched one of his talks[More Instantly Better Vim - OSCON 2013](https://www.youtube.com/watch?v=aHm36-na4-4). I thought what the heck is vim? Now it is impossible for me to use Microsoft World. :)"
         image: assets/vim_logo.png
         align: right
       - title: "New Progrraming Paradigm functional with a neat little lang called Elm"
