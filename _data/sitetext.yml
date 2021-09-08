@@ -22,11 +22,11 @@ en: &DEFAULT_EN
         desc: "Python, and Java Are my specialties, with some DSL's in the back pocket"
         icon: fas fa-code #find more at https://fontawesome.com/icons
       - title: "Leadership skills"
-        desc: "Self-motovated, get things done attitude, sports background, thinks for the good of the team"
+        desc: "Self-motivated, get things done attitude, sports background, thinks for the good of the team"
         icon: fas fa-comments
       - title: "Life-Long Learner"
         desc: "I live on the github explore page."
-        icon: fab fa-user-graduate
+        icon: fas fa-user-graduate
 
   portfolio:
     title: "What have I worked on?"
@@ -51,21 +51,21 @@ en: &DEFAULT_EN
         image: assets/cpp_logo.png
       - title: "A little Java here!"
         year: "2009-2015"
-        desc: "After I got my hands a little dirty with C++ I discovered a neat little game called Minecraft. I was hooked at first sight, and before long I was playing it nonstop. I wanted to know what it was written in, and that was my first bruch with java. I then got ankle-deep in the Minecraft modding community and the rest is history."
+        desc: "After I got my hands a little dirty with C++ I discovered a neat little game called Minecraft. I was hooked at first sight, and before long I was playing it nonstop. I wanted to know what it was written in, and that was my first brush with java. I then got ankle-deep in the Minecraft modding community and the rest is history."
         image: assets/java_logo.png
         alt:
       - title: "College Time with a side of Python"
         year: "2015-2019"
-        desc: "This was my first encounter with a dynamically typed language. I was atounded at the ammount of packeges that python provides. The coding speed was on a different level compared to all I have programmed with before."
+        desc: "This was my first encounter with a dynamically typed language. I was astounded at the amount of packages that python provides. The coding speed was on a different level compared to all I have programmed with before."
         image: assets/python_logo.png
       - title: "Holy Crap Vim!!!"
         year: "2015-current"
-        desc: "At one point in time I watched a lot of a speaker named [Damian Conway](https://en.wikipedia.org/wiki/Damian_Conway). I watched one of his talks[More Instantly Better Vim - OSCON 2013](https://www.youtube.com/watch?v=aHm36-na4-4). I thought what the heck is vim? Now it is impossible for me to use Microsoft World. :)"
+        desc: "At one point in time I watched a lot of a speaker named [Damian Conway](https://en.wikipedia.org/wiki/Damian_Conway). I watched one of his talks [More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4). I thought what the heck is vim? Now it is impossible for me to use Microsoft Word. :)"
         image: assets/vim_logo.png
         align: right
-      - title: "New Progrraming Paradigm functional with a neat little lang called Elm"
+      - title: "New Programming Paradigm functional with a neat little lang called Elm"
         year: "2019-current"
-        desc: "I was getting into web developemnt and I was sick of all the bloated web frameworks in Javascript. That is when I came across an interesting language called [Elm](https://elm-lang.org/). This little project blew every Javascript framework out of the water. I am sure you will agree"
+        desc: "I was getting into web development and I was sick of all the bloated web frameworks in JavaScript. That is when I came across an interesting language called [Elm](https://elm-lang.org/). This little project blew every Javascript framework out of the water. I am sure you will agree"
         image: assets/elm_logo.png
     end: "More On the Way"
 
