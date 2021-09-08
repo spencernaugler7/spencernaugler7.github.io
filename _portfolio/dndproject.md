@@ -6,7 +6,7 @@ image: assets/dnd_logo.png
 caption:
   title: Make the character for your next campaign lickedy-split!
   subtitle: How do I get in my campaign faster?
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/dnd_logo.png
 ---
 
 # What?
