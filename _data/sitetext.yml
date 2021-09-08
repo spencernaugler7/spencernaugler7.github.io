@@ -11,52 +11,47 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Hello World it's Spencer Naugler
     text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "What am I good at?"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Programming (Of course)"
+        desc: "Python, and Java Are my specialties, with some DSL's in the back pocket"
+        icon: fas fa-code #find more at https://fontawesome.com/icons
+      - title: "Leadership skills"
+        desc: "Self-motovated, get things done attitude, sports background, thinks for the good of the team"
+        icon: fas fa-comments
+      - title: "Life-Long Learner, I live on the github explore page."
+        desc: ""
+        icon: fab fa-graduation-cap
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "What have I worked on?"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Timeline of my history in our lovely field"
+    text: "Constantly updated Check back for updates"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "My First Hello World!"
+        year: "2009-2009"
+        desc: "I fondly remember my first Hello World. I was a Junior in Highschool, and I took a class called Intro To Programming. Before that point I had fiddled around with some tech at home and I was interested. In that class I got to write my first Hello World on some old XP computers using Visual C++, not even Visual Studio. Needless to say I was hooked ever since"
         image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "A little Java here!"
+        year: "2009-2015"
+        desc: "After I got my hands a little dirty with C++ I discovered a neat little game called Minecraft. I was hooked at first sight, and before long I was playing it nonstop. I wanted to know what it was written in, and that was my first bruch with java. I then got ankle-deep in the Minecraft modding community and the rest is history."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "College Time with a side of Python"
+        year: "2015-2019"
+        desc: "This was my first encounter with a dynamically typed language. I was atounded at the ammount of packeges that python provides. I also fell in love with "
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Title"
@@ -69,68 +64,13 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "My Mission"
+    body: "I consider myself a magician, A little C++ here, a little JS there and you have yourself some magic, or at least that is how I see it. My long term goal is for everyone to enjoy programming as much as me!! I will get closer to that goal one step at a time!"
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Contact Me through one of my socials"
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
@@ -142,18 +82,14 @@ en: &DEFAULT_EN
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    button: Top of Page
+    buttonlink: "#header"
 
   footer:
-    legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: 
+        icon: "fab fa-linkedin"
+      - url: https://github.com/spencernaugler7
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
@@ -189,6 +125,7 @@ es: &DEFAULT_ES
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
         icon: fab fa-markdown
+    button: 
 
   portfolio:
     title: "Portafolio"
