@@ -24,14 +24,19 @@ en: &DEFAULT_EN
       - title: "Leadership skills"
         desc: "Self-motovated, get things done attitude, sports background, thinks for the good of the team"
         icon: fas fa-comments
-      - title: "Life-Long Learner, I live on the github explore page."
-        desc: ""
-        icon: fab fa-graduation-cap
+      - title: "Life-Long Learner"
+        desc: "I live on the github explore page."
+        icon: fab fa-user-graduate
 
   portfolio:
     title: "What have I worked on?"
     section: portfolio
     closebutton: "Close Project"
+
+  educaton:
+    title: "intelligence += effort * planning"
+    section: education
+    
 
   timeline:
     title: "Timeline of my history in our lovely field"
@@ -51,17 +56,14 @@ en: &DEFAULT_EN
         alt:
       - title: "College Time with a side of Python"
         year: "2015-2019"
-        desc: "This was my first encounter with a dynamically typed language. I was atounded at the ammount of packeges that python provides. I also fell in love with "
+        desc: "This was my first encounter with a dynamically typed language. I was atounded at the ammount of packeges that python provides. The coding speed was on a different level compared to all I have programmed with before."
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Holy Crap Vim!!!"
+        year: "2015-current"
+        desc: "At one point in time I watched a lot of a speaker named [Damian Conway](https://en.wikipedia.org/wiki/Damian_Conway]. I just so happend to come across a video called [Damian Conway, More Instantly Better Vim - OSCON 2013](https://www.youtube.com/watch?v=aHm36-na4-4). I thought what the heck is vim? Now it is impossible for me to use Microsoft World. :)"
         image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "More On the Way"
 
   about:
     title: "My Mission"
@@ -71,17 +73,11 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me through one of my socials"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
+    section: social
+    email: spencernaugler7@gmail.com
+    discord: theluckyrouge#6209
+    icon: "fab fa-discord"
+    phone: 574-253-3643
     button: Top of Page
     buttonlink: "#header"
 

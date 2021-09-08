@@ -1,7 +1,7 @@
 ---
 title: Wikipedia Versions Reporter
 subtitle: see which weirdo wrote that wikipage you are reading
-image: assets/img/portfolio/01-full.jpg
+image: assets/wiki_logo.png
 alt: Shirts on a hanger
 
 caption:
@@ -11,7 +11,7 @@ caption:
 ---
 
 # What?
-This little gem of a project, suplpied with a wiki article title, will reach out to the wikipedia api and give you back it's editing history.
+This little gem of a project, supplied with a wiki article title, will reach out to the wikipedia api and give you back it's editing history.
 
 # Challenges?
 This project intoduced me to planning my projects :). as there was a lot of problems to solve. 
@@ -21,7 +21,7 @@ This project intoduced me to planning my projects :). as there was a lot of prob
 - How should a revision be formatted
 
 The major problem involved was trying to architect this project in a clean way. Up until this point, my projects were in a crowded main method.
-To remedy this problem I went with a Model View Controller (MVC) approach and I like the result.
+To remedy this problem I went with a Model View Controller (MVC) approach.
 
 # Stack?
 - lang: Java
