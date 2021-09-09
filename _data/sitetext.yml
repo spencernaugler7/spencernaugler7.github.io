@@ -31,7 +31,7 @@ en: &DEFAULT_EN
   portfolio:
     title: "What have I worked on?"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   educaton:
     title: "intelligence += effort * planning"
