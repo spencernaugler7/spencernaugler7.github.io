@@ -1,5 +1,5 @@
 #
-# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+# used to actually display the site
 #
 # Configuration: Add to _config.yml
 # locale: "en-US"  [YOUR PREFERRED LOCALE]
@@ -11,8 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Hello World it's Spencer Naugler
+    title: Hello World
     text: It's Nice To Meet You
+
+  references:
+    section: references
+    # what tags do I have avalible to me? 
+    
 
   services:
     title: "What am I good at?"

@@ -3,6 +3,8 @@
 #
 # Configuration: Add to _config.yml
 # locale: "en-US"  [YOUR PREFERRED LOCALE]
+# 
+# used to display the menu bar at the top of the site
 #
 # How to use:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
@@ -19,6 +21,8 @@ en: &DEFAULT_EN
       section: about
     - title: "Timeline"
       section: timeline
+    - title: "References"
+      section: references
 
 en-US:
   <<: *DEFAULT_EN
